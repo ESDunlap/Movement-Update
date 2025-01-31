@@ -1,2 +1,2 @@
 # Movement Update
- Arena DV updaqted with Movement, Pickups, and Enemies
+ Arena DV updated with Movement, Pickups, and Enemies
